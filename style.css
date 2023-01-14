@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+}
+button{
+    color: black;
+    margin-left: 15px;
+}
+.head{
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    padding-left: 39px;
+}
+form{
+   
+    padding-left: 25px;
+}
+.add{
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    padding-left: 39px;
+}
+table{
+    margin-top: 29px;
+    margin-left: 35px;
+}
